@@ -1,0 +1,5 @@
+homepage: "https://paolobietolini.com"
+documentation: "https://paolobietolini.com/templates/objects-remapper/"
+versions:
+  - sha: 
+    changeNotes: Initial release.
