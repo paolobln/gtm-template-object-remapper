@@ -1,5 +1,5 @@
 homepage: "https://paolobietolini.com"
 documentation: "https://paolobietolini.com/templates/objects-remapper/"
 versions:
-  - sha: 
+  - sha: d6d21c7dbbbf796ca532e1167f77726bc4f40a22
     changeNotes: Initial release.
